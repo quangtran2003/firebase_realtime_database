@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872882726732",
+    "firebase_url": "https://chatonline-cb019-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatonline-cb019",
+    "storage_bucket": "chatonline-cb019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872882726732:android:fad97d8e4a321ce42fd1e9",
+        "android_client_info": {
+          "package_name": "com.example.app_chat_realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872882726732-23m7o611fn0j2ugielmfrpecr7v5qv60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgc9tykOFIL9HkuqvpdK_mkl4bF8iWc20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872882726732-23m7o611fn0j2ugielmfrpecr7v5qv60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "872882726732-rehj4sp7v9ckjnjab5qlac1hm054s4qi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appChatRealtime"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
